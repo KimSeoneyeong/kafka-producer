@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ef4897c6-432f-4109-aec2-944c3d9d04f5" name="변경" comment="">
-      <change beforePath="$PROJECT_DIR$/producers/bicycle_producer.py" beforeDir="false" afterPath="$PROJECT_DIR$/producers/bicycle_producer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
